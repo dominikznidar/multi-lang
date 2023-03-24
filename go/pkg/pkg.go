@@ -1,5 +1,5 @@
 package pkg
 
 func Hello() string {
-	return "Hello"
+	return "Hello v2"
 }
